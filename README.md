@@ -2,7 +2,7 @@
 <h2 align="center">Frontend development enthusiast | Java |</h2>
 
 
-- 👨‍🎓 I’m currently mastering Web Development.
+<!-- - 👨‍🎓 I’m currently mastering Web Development. -->
 
 
 
